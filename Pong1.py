@@ -1,6 +1,7 @@
 # Simple Pong in Python 3 for Beginners
 # By Nate B.
 # Part 1: Getting started
+# Developed on Windows
 
 import turtle
 

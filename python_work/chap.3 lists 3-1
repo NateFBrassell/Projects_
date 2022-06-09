@@ -1,0 +1,16 @@
+names = ['mike', 'matt', 'kyle', 'jay']
+print(names)
+
+message = "I know " + names[0].title() + " from Hydrofresh."
+print(message)
+
+message = "I know " + names[1].title() + " from Hydrofresh."
+print(message)
+
+message = "I know " + names[2].title() + " from Hydrofresh."
+print(message)
+
+message = "I know " + names[3].title() + " from Hydrofresh."
+print(message)
+
+
